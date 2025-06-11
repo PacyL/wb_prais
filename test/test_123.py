@@ -6,6 +6,10 @@ def test_00():
 def test_01():
     cod=1398771724
     bool(cod)==True
+def test_count_1():
+    pass
+def test_count_2():
+    pass
     
 if __name__=="__main__":
     print(test_00())
