@@ -2,7 +2,7 @@ import telebot
 import requests
 
 
-TOKEN = '7955204064:AAHfmTZROEy740kQoGG_3kmQUO8fMhWnA8o'
+TOKEN = '__'
 bot = telebot.TeleBot(TOKEN)
 
 AUTHORIZED_USERS = [1398771724]
